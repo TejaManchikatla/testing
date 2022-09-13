@@ -7,6 +7,8 @@ abstract class Vehicle{
     protected abstract String vehicleNumber();
     abstract void printInfo();
 }
+// Just trying to test okay na?
+
 
 //It shows an error when any method in class Vehicle is made private.
 
